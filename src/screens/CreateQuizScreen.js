@@ -59,7 +59,7 @@ const CreateQuizScreen = ({navigation}) => {
 
       <FormButton labelText="Save Quiz" handleOnPress={handleQuizSave} />
 
-      {/* Temporary button - navigate without saving question*/}
+      {/* Temporary button - navigate without saving quiz*/}
       {/* <FormButton
         labelText="Navigate to AddQuestionScreen"
         style={{
